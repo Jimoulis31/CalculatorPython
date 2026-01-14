@@ -25,19 +25,18 @@ Error handling for invalid inputs
 
 🛠️ Installation & Setup
 1. Clone the repository
-bash
+
 git clone https://github.com/<your-username>/calculator-tkinter.git
 cd calculator-tkinter
 2. Run the program
 Make sure you have Python 3.x installed.
 
-bash
 python calculator.py
 That’s it! The GUI window should open, ready for calculations.
 
 💡 How It Works
 The program uses a StringVar() object to manage the display text.
-Each button press updates a global result string which gets evaluated when you press =.
+Each button press updates a global result string, which gets evaluated when you press =.
 
 Key functions:
 
