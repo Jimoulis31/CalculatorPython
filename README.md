@@ -30,7 +30,7 @@ The calculator window will open. Click the buttons to build an expression and pr
 
 ## Screenshot
 
-![Calculator screenshot](images/1312.png)
+![Calculator screenshot](1312.png)
 
 
 
